@@ -1,3 +1,3 @@
-# Shop App
+# Shop Application 
 
 🌎 Website: https://benitoinhiskitchen.netlify.app
